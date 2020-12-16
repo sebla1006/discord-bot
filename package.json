@@ -1,0 +1,19 @@
+{
+  "name": "7-bot",
+  "version": "1.0.0",
+  "description": "aucune",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "fs": "^0.0.1-security"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+  
+}
